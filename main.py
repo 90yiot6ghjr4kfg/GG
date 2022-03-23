@@ -1,2 +1,3 @@
 
-print("dsa;dsa")
+print("vanja")
+print("molodez")
